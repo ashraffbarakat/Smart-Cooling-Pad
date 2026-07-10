@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="Documentation/Untitled.jpg" width="70%" alt="OMNI YOU Robot">
-</p>
+
 
 # ❄️ Smart Cooling Pad
 
 > An Arduino-based intelligent cooling pad that automatically adjusts fan speed based on laptop temperature, providing efficient cooling, real-time monitoring, and manual control.
+<p align="center">
+  <img src="Documentation/Untitled.jpg" width="40%" alt="OMNI YOU Robot">
+</p>
 
 ---
 
