@@ -230,35 +230,8 @@ The cooling performance was experimentally evaluated.
 
 ---
 
-# 📁 Repository Structure
-
-```
-Smart-Cooling-Pad/
-│
-├── Arduino/
-├── PCB/
-├── CAD/
-├── Circuit/
-├── Images/
-├── Videos/
-├── Documentation/
-└── README.md
-```
-
----
-
-# 👨‍💻 Team
-
-- **Ashraf Ahmed Barakat**
-- Adham Sherif
-- Nassir Afifi
-
----
-
 # 📄 License
 
 This project is developed for educational purposes as part of the **Electronics for Instrumentation (MCT232)** course.
 
 ---
-
-## ⭐ If you like this project, don't forget to Star ⭐ the repository!
