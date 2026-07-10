@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Documentation/Untitled.jpg" width="125%" alt="OMNI YOU Robot">
+  <img src="Documentation/Untitled.jpg" width="70%" alt="OMNI YOU Robot">
 </p>
 
 # ❄️ Smart Cooling Pad
